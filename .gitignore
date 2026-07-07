@@ -1,0 +1,7 @@
+# Data files - not tracked in version control
+styles.csv
+*.csv
+
+# Python cache files
+__pycache__/
+*.pyc
